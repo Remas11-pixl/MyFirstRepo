@@ -1,4 +1,4 @@
-#   my First GitHup Project
+#  My First GitHup Project
 This project was created as part of the Git & GitHup Lap
 ## About
 - Created by: Remas
